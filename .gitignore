@@ -1,10 +1,12 @@
+.DS_Store
+
+__pycache__/
 *.pyc
-notes/
 
 *_env/
-*_env*/
-pg_env_1.7/
+.venv*/
 
-*.svg
+online_resources_site/site/
 
-*.DS_Store
+*.sqlite3
+
